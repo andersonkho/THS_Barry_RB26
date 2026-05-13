@@ -12,7 +12,7 @@ TARGET_WALL_DISTANCE = 250
 Kp = 0.9
 Ki = 0.05
 Kd = 3.0
-MAX_STEERING = 30
+MAX_STEERING = 50
 INTEGRAL_MAX = 250
 
 previous_error = 0
