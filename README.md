@@ -4,11 +4,17 @@ This robot will be used for future competitions, where it will be able to think 
 ## Problems and fixes
 Problems: 
 Kp 0 goes straight
+
 Kp 0.05 goes outwards
+
 Kp 0.1 goes outwards
+
 Kp 0.2 goes outwards (lesser than Kp 0.1)
+
 Kp 0.3 goes outwards
+
 Kp 0.4 goes outwards
+
 Kp 0.5 goes inwards
 
 ## Notice
