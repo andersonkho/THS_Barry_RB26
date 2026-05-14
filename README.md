@@ -28,11 +28,14 @@ This robot is currently under development stages where we have just started test
 RB26.0.2
 
 ## Contributors
-  [andersonkho](https://github.com/andersonkho)
-  [AndrewYongLy](https://github.com/AndrewYongLy)
-  [CallenLin](https://github.com/CallenLin)
-  [benpaddlejones](@https://github.com/benpaddlejones)
+[andersonkho](https://github.com/andersonkho)
 
+[AndrewYongLy](https://github.com/AndrewYongLy)
+
+[CallenLin](https://github.com/CallenLin)
+
+[benpaddlejones](https://github.com/benpaddlejones) from https://github.com/TempeHS/RP2040_Competition_Robot/
+  
 A Tempe High School robot built and coded by Anderson, Callen and Andrew
 
 ## License
