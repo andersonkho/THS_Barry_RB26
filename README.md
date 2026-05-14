@@ -5,7 +5,7 @@ This robot will be used for future competitions, where it will be able to think 
 This robot is currently under development stages where we have just started testing our code/s on our robots. Our robot is currently at version RB26.02.
 
 ## Version
-N/A
+RB26.0.2
 
 ## Contributors
   [andersonkho](https://github.com/andersonkho)
