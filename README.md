@@ -8,8 +8,11 @@ This robot is currently under development stages where we have just started test
 N/A
 
 ## Contributors
-[benpaddlejones](@https://github.com/benpaddlejones)
-[AndrewYongLy](https://github.com/AndrewYongLy)
-[CallenLin](https://github.com/CallenLin)
-[andersonkho](https://github.com/andersonkho)
-A Tempe High School robot built and coded by me, Callen and Andrew
+  [andersonkho](https://github.com/andersonkho)
+  [AndrewYongLy](https://github.com/AndrewYongLy)
+  [CallenLin](https://github.com/CallenLin)
+  [benpaddlejones](@https://github.com/benpaddlejones)
+
+A Tempe High School robot built and coded by Anderson, Callen and Andrew
+
+## License
