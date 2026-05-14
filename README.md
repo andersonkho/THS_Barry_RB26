@@ -21,29 +21,6 @@ K.P 0.5 - Overshoots, after the 2nd oscillation
 
 Results: BETTER K.P ( 0.1 - 0.2)
 
-
-
-
-
-
-
-
-
-
-Kp 0 goes straight
-
-Kp 0.05 goes outwards
-
-Kp 0.1 goes outwards
-
-Kp 0.2 goes outwards (lesser than Kp 0.1)
-
-Kp 0.3 goes outwards
-
-Kp 0.4 goes outwards
-
-Kp 0.5 goes inwards
-
 ## Notice
 This robot is currently under development stages where we have just started testing our code/s on our robots. Our robot is currently at version RB26.02.
 
