@@ -10,10 +10,10 @@ my_robot = AIDriver()
 BASE_SPEED = 170
 TARGET_WALL_DISTANCE = 250
 Kp = 0.55
-Ki = 0.25
-Kd = 3.0
+Ki = 0.008
+Kd = 0.25
 MAX_STEERING = 30
-INTEGRAL_MAX = 250
+INTEGRAL_MAX = 1200
 
 previous_error = 0
 integral = 0
