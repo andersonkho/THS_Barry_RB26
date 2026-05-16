@@ -22,10 +22,10 @@ K.P 0.5 - Overshoots, after the 2nd oscillation
 Results: BETTER K.P ( 0.1 - 0.2)
 
 ## Notice
-This robot is currently under development stages where we have just started testing our code/s on our robots. Our robot is currently at version RB26.02.
+This robot is currently under development stages where we have just started testing our code/s on our robots. Our robot is currently at version RB26.03.
 
 ## Version
-RB26.0.2
+RB26.0.3
 
 ## Contributors
 [andersonkho](https://github.com/andersonkho)
