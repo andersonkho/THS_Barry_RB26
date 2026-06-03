@@ -12,11 +12,11 @@ my_robot = AIDriver("left")  # ← Change to "right" if wall is on your right
 # ═══════════════════════════════════════════════════════
 BASE_SPEED = 200
 TARGET_WALL_DISTANCE = 200
-side_Kp = 0             # Use the Kp you found in Challenge 1
-side_Kd = 0             # Use the Kd you found in Challenge 2
-side_Ki = 0            # Start very small — raise in 0.002 steps
 MAX_STEERING = 60
-side_INTEGRAL_MAX = 0   # Anti-windup clamp
+side_Kp = 0.35            # Use the Kp you found in Challenge 1
+side_Kd = 1.5             # Use the Kd you found in Challenge 2
+side_Ki = 0.001            # Start very small — raise in 0.002 steps
+side_INTEGRAL_MAX = 60   # Anti-windup clamp
 
 # ══════════════════════════════════════��════════════════
 # MAIN LOOP
